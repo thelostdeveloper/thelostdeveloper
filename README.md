@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thelostdeveloper
-- 👀 I’m interested in ... react.js and machine Learning
-- 🌱 I’m currently learning ... machine learning
-- 💞️ I’m looking to collaborate on ... react and ml research and projects
+- 👀 I’m interested in ... AWS and Cloud
+- 🌱 I’m currently learning ... AWS
 - 📫 How to reach me ... https://www.linkedin.com/in/priyanshubharadwaj/
 
 <!---
